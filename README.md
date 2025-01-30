@@ -23,5 +23,5 @@ To run this project, you'll need the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourrepo/discord-ai-chatbot.git
+   git clone https://github.com/ArvindeepSingh/discord-ai-chatbot.git
    cd discord-ai-chatbot
